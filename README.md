@@ -1,2 +1,0 @@
-# ffrk
-ffrk data miner
