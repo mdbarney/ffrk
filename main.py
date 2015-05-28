@@ -4,11 +4,17 @@ import re
 import fileinput
 import json
 import sys
+import os
 import Tkinter
 import ffrklib
 
 def main():
     # option = sys.argv[1]
+
+    # os.path.join(dir_name, base_filename + "." + filename_suffix)
+    # print os.getcwd()
+    path = str(os.getcwd()) + "/data/"
+    txtPath = str(os.getcwd()) + "/txt/"
 
     characters = []
     weapons = []
@@ -16,18 +22,18 @@ def main():
     accessories = []
     tempList = []
 
-    wepTxtFile  = open("weapons.txt", "a+" )
-    accTxtFile  = open("accessories.txt", "a+" )
-    armTxtFile  = open("armor.txt", "a+" )
-    charTxtFile  = open("characters.txt", "a+" )
+    # wepTxtFile  = open(txtPath + "weapons.txt", "w+" )
+    # accTxtFile  = open(txtPath + "accessories.txt", "w+" )
+    # armTxtFile  = open(txtPath + "armor.txt", "w+" )
+    # charTxtFile  = open(txtPath + "characters.txt", "w+" )
 
-    item_data  = open("item_data.dat", "ra+" )
-    weapon_data  = open("weapon_data.dat", "ra+" )
-    accessory_data  = open("accessory_data.dat", "ra+" )
-    armor_data  = open("armor_data.dat", "ra+" )
-    char_data  = open("character_data.dat", "ra+" )
+    # item_data  = open("item_data.dat", "ra+" )
+    weapon_data  = open(path + "weapon_data.dat", "ra+" )
+    accessory_data  = open(path + "accessory_data.dat", "ra+" )
+    armor_data  = open(path + "armor_data.dat", "ra+" )
+    char_data  = open(path + "character_data.dat", "ra+" )
 
-    testFile  = open("test.txt", "ra+" )
+    # testFile  = open("test.txt", "ra+" )
 
     charURL = ffrklib.getCharacterUrlList()
     wepURL = ffrklib.getWeaponUrlList()
@@ -41,10 +47,10 @@ def main():
 
     # build data lists from ffrk website data
     # ONLY NEEDED TO BE RUN WHEN NEW ITEMS/CHARACTERS ARE ADDED
-    characters = ffrklib.buildList("character", cLen)
-    weapons = ffrklib.buildList("weapon", wLen)
-    armor = ffrklib.buildList("armor", rLen)
-    accessories = ffrklib.buildList("accessory", aLen)
+    # characters = ffrklib.buildList("character", cLen)
+    # weapons = ffrklib.buildList("weapon", wLen)
+    # armor = ffrklib.buildList("armor", rLen)
+    # accessories = ffrklib.buildList("accessory", aLen)
 
 
     # ffrklib.outputWeaponTextFile(weapons, wepTxtFile)
@@ -57,17 +63,17 @@ def main():
     ffrklib.saveData(characters, char_data)
 
     # test loadData by printing
-    # print ffrklib.loadData(char_data)
-    # print ffrklib.loadData(weapon_data)
-    # print ffrklib.loadData(armor_data)
-    # print ffrklib.loadData(accessory_data)
+    print ffrklib.loadData(char_data)
+    print ffrklib.loadData(weapon_data)
+    print ffrklib.loadData(armor_data)
+    print ffrklib.loadData(accessory_data)
 
 
-    wepTxtFile.close()
-    accTxtFile.close()
-    armTxtFile.close()
-    charTxtFile.close()
-    item_data.close()
+    # wepTxtFile.close()
+    # accTxtFile.close()
+    # armTxtFile.close()
+    # charTxtFile.close()
+    # item_data.close()
     weapon_data.close()
     accessory_data.close()
     armor_data.close()
