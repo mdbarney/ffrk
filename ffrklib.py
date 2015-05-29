@@ -701,7 +701,7 @@ def buildList(dataType, length):
     return infoList
 
 def findStat(infoList, stat):
-    
+    # potentially make a new list and return new list for further processing
     for item in infoList:
         for e in item:
             if e.find(stat) != -1:
