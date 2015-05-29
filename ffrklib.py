@@ -702,10 +702,19 @@ def buildList(dataType, length):
 
 def findStat(infoList, stat):
     # potentially make a new list and return new list for further processing
+    temp = []
     for item in infoList:
         for e in item:
             if e.find(stat) != -1:
-                print item
+                # print item
+                temp.append(item)
                 break
+    return temp
 
+# def sortList(infoList, sort):
+#     for item in infoList:
+#         for e in item:
+#             if e.find(stat) != -1:
+#                 # print item
+#                 break
 
