@@ -11,8 +11,6 @@ import ffrklib
 def main():
     # option = sys.argv[1]
 
-    # os.path.join(dir_name, base_filename + "." + filename_suffix)
-    # print os.getcwd()
     path = str(os.getcwd()) + "/data/"
     txtPath = str(os.getcwd()) + "/txt/"
 
@@ -53,14 +51,16 @@ def main():
     # accessories = ffrklib.buildList("accessory", aLen)
 
 
-    # ffrklib.outputWeaponTextFile(weapons, wepTxtFile)
+    # ffrklib.outputTextFile(weapons, wepTxtFile)
     # ffrklib.outputTextFile(accessories, accTxtFile)
+    # ffrklib.outputTextFile(armor, armTxtFile)
+    # ffrklib.outputTextFile(characters, charTxtFile)
 
     # save lists to files 
-    ffrklib.saveData(weapons, weapon_data)
-    ffrklib.saveData(accessories, accessory_data)
-    ffrklib.saveData(armor, armor_data)
-    ffrklib.saveData(characters, char_data)
+    # ffrklib.saveData(weapons, weapon_data)
+    # ffrklib.saveData(accessories, accessory_data)
+    # ffrklib.saveData(armor, armor_data)
+    # ffrklib.saveData(characters, char_data)
 
     # test loadData by printing
     print ffrklib.loadData(char_data)
@@ -78,7 +78,7 @@ def main():
     accessory_data.close()
     armor_data.close()
     char_data.close()
-    testFile.close()
+    # testFile.close()
     
 
             

@@ -1,0 +1,1201 @@
+Name:		Leather Shield (V)
+Type:		Shield
+Rarity:		1
+Defense:	17
+Resistance:	11
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Bronze Shield (V)
+Type:		Shield
+Rarity:		1
+Defense:	18
+Resistance:	12
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Round Shield (XII)
+Type:		Shield
+Rarity:		1
+Defense:	20
+Resistance:	13
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Buckler (XII)
+Type:		Shield
+Rarity:		1
+Defense:	18
+Resistance:	12
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Iron Shield (IV)
+Type:		Shield
+Rarity:		2
+Defense:	28
+Resistance:	18
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Shield (IV)
+Type:		Shield
+Rarity:		2
+Defense:	29
+Resistance:	18
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Golden Shield (V)
+Type:		Shield
+Rarity:		3
+Defense:	41
+Resistance:	26
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		Diamond Shield (V)
+Type:		Shield
+Rarity:		3
+Defense:	44
+Resistance:	27
+Evasion:	102
+Effect:		Adds minor lightning resistance.
+Soul Break:	None
+
+
+Name:		Shell Shield (XII)
+Type:		Shield
+Rarity:		3
+Defense:	40
+Resistance:	29
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		Flame Shield (IV)
+Type:		Shield
+Rarity:		3
+Defense:	39
+Resistance:	24
+Evasion:	102
+Effect:		Adds moderate ice resistance, weakness to fire.
+Soul Break:	None
+
+
+Name:		Ice Shield (IV)
+Type:		Shield
+Rarity:		3
+Defense:	39
+Resistance:	24
+Evasion:	102
+Effect:		Adds moderate fire resistance, weakness to ice.
+Soul Break:	None
+
+
+Name:		Aegis Shield (IV)
+Type:		Shield
+Rarity:		3
+Defense:	36
+Resistance:	35
+Evasion:	102
+Effect:		Adds minor resistance to Petrify.
+Soul Break:	None
+
+
+Name:		Crystal Shield (VI)
+Type:		Shield
+Rarity:		4
+Defense:	64
+Resistance:	40
+Evasion:	105
+Effect:		None
+Soul Break:	None
+
+
+Name:		Genji Shield (IV)
+Type:		Shield
+Rarity:		5
+Defense:	102
+Resistance:	64
+Evasion:	108
+Effect:		None
+Soul Break:	None
+
+
+Name:		Lustrous Shield (IV)
+Type:		Shield
+Rarity:		5
+Defense:	103
+Resistance:	65
+Mind:		15
+Evasion:	108
+Effect:		Changes Paladin Cecil's Soul Break.
+Soul Break:	Sentinel 
+
+
+Name:		Heavy Shield (VI)
+Type:		Shield
+Rarity:		2
+Defense:	29
+Resistance:	18
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Golden Shield (II)
+Type:		Shield
+Rarity:		4
+Defense:	64
+Resistance:	40
+Evasion:	108
+Effect:		None
+Soul Break:	None
+
+
+Name:		Plumed Hat (V)
+Type:		Hat
+Rarity:		1
+Defense:	12
+Magic:		5
+Resistance:	24
+Mind:		5
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Twist Headband (V)
+Type:		Hat
+Rarity:		1
+Attack:		2
+Defense:	11
+Magic:		5
+Resistance:	21
+Mind:		5
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Leather Cap (VI)
+Type:		Hat
+Rarity:		1
+Defense:	2
+Magic:		5
+Resistance:	23
+Mind:		5
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Hairband (VI)
+Type:		Hat
+Rarity:		1
+Defense:	11
+Magic:		5
+Resistance:	22
+Mind:		5
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Gold Hairpin (V)
+Type:		Hat
+Rarity:		3
+Defense:	26
+Magic:		15
+Resistance:	51
+Mind:		11
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Lamia's Tiara (V)
+Type:		Hat
+Rarity:		3
+Defense:	26
+Magic:		12
+Resistance:	52
+Mind:		11
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Circlet (V)
+Type:		Hat
+Rarity:		3
+Defense:	26
+Magic:		11
+Resistance:	51
+Mind:		11
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Red Cap (VI)
+Type:		Hat
+Rarity:		3
+Attack:		3
+Defense:	28
+Magic:		11
+Resistance:	54
+Mind:		11
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Hypno Crown (V)
+Type:		Hat
+Rarity:		4
+Defense:	40
+Magic:		16
+Resistance:	79
+Mind:		16
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		Royal Crown (VI)
+Type:		Hat
+Rarity:		4
+Attack:		3
+Defense:	42
+Magic:		16
+Resistance:	80
+Mind:		16
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		Wizard's Hat (IV)
+Type:		Hat
+Rarity:		1
+Defense:	11
+Magic:		8
+Resistance:	22
+Mind:		9
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Green Beret (IV)
+Type:		Hat
+Rarity:		2
+Defense:	20
+Magic:		8
+Resistance:	39
+Mind:		8
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Black Cowl (IV)
+Type:		Hat
+Rarity:		3
+Defense:	27
+Magic:		11
+Resistance:	54
+Mind:		11
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Sage's Miter (IV)
+Type:		Hat
+Rarity:		2
+Defense:	18
+Magic:		8
+Resistance:	36
+Mind:		12
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Beret (VI)
+Type:		Hat
+Rarity:		2
+Defense:	19
+Magic:		8
+Resistance:	37
+Mind:		8
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Feathered Hat (III)
+Type:		Hat
+Rarity:		4
+Defense:	39
+Magic:		17
+Resistance:	79
+Mind:		17
+Evasion:	102
+Effect:		Changes Red Mage's Soul Break.
+Soul Break:	Doublecast Thunder 
+
+
+Name:		Ten-gallon Hat (VIII)
+Type:		Hat
+Rarity:		4
+Defense:	40
+Magic:		19
+Resistance:	81
+Mind:		17
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		Bronze Helm (V)
+Type:		Helm
+Rarity:		1
+Attack:		3
+Defense:	20
+Resistance:	18
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Bronze Helm (II)
+Type:		Helm
+Rarity:		1
+Attack:		3
+Defense:	19
+Resistance:	17
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Iron Helm (IV)
+Type:		Helm
+Rarity:		2
+Attack:		4
+Defense:	31
+Resistance:	28
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Shell Helm (III)
+Type:		Helm
+Rarity:		2
+Attack:		4
+Defense:	32
+Resistance:	29
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Flame Helm (II)
+Type:		Helm
+Rarity:		2
+Attack:		4
+Defense:	28
+Resistance:	28
+Evasion:	96
+Effect:		Adds minor ice resistance.
+Soul Break:	None
+
+
+Name:		Giant's Helm (II)
+Type:		Helm
+Rarity:		2
+Attack:		7
+Defense:	33
+Resistance:	29
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Helm (IV)
+Type:		Helm
+Rarity:		2
+Attack:		4
+Defense:	32
+Resistance:	29
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Dragon Helm (III)
+Type:		Helm
+Rarity:		3
+Attack:		6
+Defense:	48
+Resistance:	43
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Viking Helm (III)
+Type:		Helm
+Rarity:		3
+Attack:		6
+Defense:	46
+Resistance:	41
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Ice Helm (III)
+Type:		Helm
+Rarity:		3
+Attack:		5
+Defense:	38
+Resistance:	39
+Evasion:	99
+Effect:		Adds minor fire resistance.
+Soul Break:	None
+
+
+Name:		Golden Helm (VI)
+Type:		Helm
+Rarity:		3
+Attack:		6
+Defense:	46
+Resistance:	41
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Diamond Helm (VI)
+Type:		Helm
+Rarity:		3
+Attack:		6
+Defense:	51
+Resistance:	45
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Genji Helm (V)
+Type:		Helm
+Rarity:		5
+Attack:		13
+Defense:	114
+Resistance:	102
+Evasion:	105
+Effect:		Adds minor resistance to Confuse.
+Soul Break:	None
+
+
+Name:		Thornlet (V)
+Type:		Helm
+Rarity:		4
+Attack:		8
+Defense:	71
+Resistance:	63
+Evasion:	102
+Effect:		Adds minor resistance to Sleep.
+Soul Break:	None
+
+
+Name:		Crystal Helm (VI)
+Type:		Helm
+Rarity:		4
+Attack:		19
+Defense:	76
+Magic:		3
+Resistance:	67
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		Diamond Helm (III)
+Type:		Helm
+Rarity:		4
+Attack:		9
+Defense:	71
+Resistance:	63
+Evasion:	102
+Effect:		Changes Knight's Soul Break.
+Soul Break:	Knight's Shield II 
+
+
+Name:		Copper Cuirass (V)
+Type:		Light Armor
+Rarity:		1
+Defense:	21
+Resistance:	21
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Vest (III)
+Type:		Light Armor
+Rarity:		1
+Defense:	19
+Resistance:	18
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Leather Clothing (IV)
+Type:		Light Armor
+Rarity:		1
+Defense:	20
+Resistance:	19
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Protect Vest (VII)
+Type:		Light Armor
+Rarity:		2
+Defense:	32
+Resistance:	31
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Ninja Gear (VI)
+Type:		Light Armor
+Rarity:		2
+Defense:	35
+Resistance:	33
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Kenpo Gi (IV)
+Type:		Light Armor
+Rarity:		2
+Attack:		3
+Defense:	35
+Resistance:	35
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Power Sash (IV)
+Type:		Light Armor
+Rarity:		2
+Attack:		5
+Defense:	30
+Resistance:	31
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mirage Vest (V)
+Type:		Light Armor
+Rarity:		3
+Defense:	45
+Resistance:	45
+Evasion:	109
+Effect:		None
+Soul Break:	None
+
+
+Name:		Black Belt Gi (III)
+Type:		Light Armor
+Rarity:		3
+Attack:		5
+Defense:	47
+Resistance:	47
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Diamond Vest (VI)
+Type:		Light Armor
+Rarity:		3
+Defense:	48
+Resistance:	48
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Black Garb (IV)
+Type:		Light Armor
+Rarity:		4
+Defense:	72
+Resistance:	72
+Evasion:	112
+Effect:		None
+Soul Break:	None
+
+
+Name:		Red Jacket (VI)
+Type:		Light Armor
+Rarity:		4
+Attack:		5
+Defense:	76
+Resistance:	76
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		Prison Garb (IV)
+Type:		Light Armor
+Rarity:		1
+Defense:	20
+Resistance:	20
+Evasion:	93
+Effect:		Adds minor resistance to Sleep.
+Soul Break:	None
+
+
+Name:		Bright Armguard (X)
+Type:		Light Armor
+Rarity:		4
+Defense:	73
+Resistance:	72
+Evasion:	102
+Effect:		Adds minor resistance to Blind.
+Soul Break:	None
+
+
+Name:		Balamb Garden Uniform (VIII)
+Type:		Light Armor
+Rarity:		5
+Defense:	114
+Resistance:	117
+Evasion:	100
+Effect:		None
+Soul Break:	None
+
+
+Name:		Bronze Armor (V)
+Type:		Armor
+Rarity:		1
+Defense:	28
+Resistance:	12
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Leather Armor (III)
+Type:		Armor
+Rarity:		1
+Defense:	25
+Resistance:	11
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Leather Armor (VI)
+Type:		Armor
+Rarity:		1
+Defense:	26
+Resistance:	11
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Iron Armor (IV)
+Type:		Armor
+Rarity:		2
+Defense:	44
+Resistance:	18
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Bone Mail (V)
+Type:		Armor
+Rarity:		2
+Defense:	42
+Resistance:	18
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Armor (IV)
+Type:		Armor
+Rarity:		2
+Defense:	43
+Resistance:	18
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Knight Armor (III)
+Type:		Armor
+Rarity:		3
+Defense:	61
+Resistance:	26
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Demon Mail (III)
+Type:		Armor
+Rarity:		3
+Defense:	59
+Resistance:	25
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Golden Armor (VI)
+Type:		Armor
+Rarity:		3
+Defense:	63
+Resistance:	26
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Flame Mail (IV)
+Type:		Armor
+Rarity:		3
+Defense:	58
+Resistance:	24
+Evasion:	99
+Effect:		Adds moderate ice resistance, weakness to fire.
+Soul Break:	None
+
+
+Name:		Ice Armor (IV)
+Type:		Armor
+Rarity:		3
+Defense:	58
+Resistance:	24
+Evasion:	99
+Effect:		Adds moderate fire resistance, weakness to ice.
+Soul Break:	None
+
+
+Name:		Crystal Armor (V)
+Type:		Armor
+Rarity:		4
+Defense:	101
+Resistance:	42
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		Genji Armor (V)
+Type:		Armor
+Rarity:		5
+Defense:	137
+Resistance:	64
+Evasion:	105
+Effect:		Adds minor resistance to Confuse.
+Soul Break:	None
+
+
+Name:		Diamond Armor (VI)
+Type:		Armor
+Rarity:		4
+Defense:	96
+Resistance:	40
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Vest (VI)
+Type:		Armor
+Rarity:		3
+Defense:	58
+Resistance:	24
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Mail (VI)
+Type:		Armor
+Rarity:		3
+Defense:	59
+Resistance:	25
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Dark Armor (IV)
+Type:		Armor
+Rarity:		2
+Defense:	129
+Resistance:	71
+Evasion:	100
+Effect:		None
+Soul Break:	None
+
+
+Name:		Knight's Armor (I)
+Type:		Armor
+Rarity:		4
+Defense:	99
+Resistance:	37
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		Galbadian Armor (VIII)
+Type:		Armor
+Rarity:		2
+Defense:	44
+Resistance:	18
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mage Robe (III)
+Type:		Robe
+Rarity:		1
+Defense:	17
+Resistance:	29
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Cotton Robe (VI)
+Type:		Robe
+Rarity:		1
+Defense:	15
+Resistance:	25
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Silk Robe (VI)
+Type:		Robe
+Rarity:		1
+Defense:	16
+Resistance:	27
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Scholar Robe (III)
+Type:		Robe
+Rarity:		2
+Defense:	25
+Resistance:	42
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Bard's Tunic (IV)
+Type:		Robe
+Rarity:		2
+Defense:	25
+Magic:		2
+Resistance:	43
+Evasion:	96
+Effect:		Adds minor resistance to Silence.
+Soul Break:	None
+
+
+Name:		Gaia Gear (IV)
+Type:		Robe
+Rarity:		2
+Defense:	25
+Magic:		3
+Resistance:	43
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Luminous Robe (V)
+Type:		Robe
+Rarity:		3
+Defense:	35
+Magic:		4
+Resistance:	60
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		White Dress (VI)
+Type:		Robe
+Rarity:		3
+Defense:	37
+Resistance:	63
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Magus Robe (VI)
+Type:		Robe
+Rarity:		3
+Defense:	38
+Resistance:	65
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Sage's Surplice (IV)
+Type:		Robe
+Rarity:		3
+Defense:	38
+Resistance:	65
+Mind:		4
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Black Robe (IV)
+Type:		Robe
+Rarity:		4
+Defense:	56
+Magic:		5
+Resistance:	96
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		White Robe (IV)
+Type:		Robe
+Rarity:		4
+Defense:	56
+Resistance:	96
+Mind:		5
+Evasion:	102
+Effect:		Adds minor resistance to Blind.
+Soul Break:	None
+
+
+Name:		Regal Gown (VI)
+Type:		Robe
+Rarity:		5
+Defense:	89
+Resistance:	137
+Evasion:	105
+Effect:		None
+Soul Break:	None
+
+
+Name:		Gaia Vest (III)
+Type:		Robe
+Rarity:		4
+Defense:	55
+Resistance:	96
+Evasion:	102
+Effect:		Changes Summoner's Soul Break. Adds light earth damage.
+Soul Break:	Call II 
+
+
+Name:		Bronze Bangle (VII)
+Type:		Bracer
+Rarity:		1
+Attack:		5
+Defense:	11
+Magic:		5
+Resistance:	15
+Mind:		5
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Iron Bangle (VII)
+Type:		Bracer
+Rarity:		1
+Attack:		5
+Defense:	11
+Magic:		5
+Resistance:	15
+Mind:		5
+Evasion:	93
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Armlet (VII)
+Type:		Bracer
+Rarity:		2
+Attack:		8
+Defense:	18
+Magic:		8
+Resistance:	25
+Mind:		8
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Carbon Bangle (VII)
+Type:		Bracer
+Rarity:		2
+Attack:		8
+Defense:	18
+Magic:		8
+Resistance:	26
+Mind:		8
+Evasion:	96
+Effect:		None
+Soul Break:	None
+
+
+Name:		Silver Armlet (VII)
+Type:		Bracer
+Rarity:		3
+Attack:		10
+Defense:	24
+Magic:		10
+Resistance:	34
+Mind:		10
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Diamond Bangle (VII)
+Type:		Bracer
+Rarity:		3
+Attack:		10
+Defense:	25
+Magic:		10
+Resistance:	35
+Mind:		10
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Crystal Bangle (VII)
+Type:		Bracer
+Rarity:		4
+Attack:		16
+Defense:	42
+Magic:		16
+Resistance:	56
+Mind:		16
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		Rune Armlet (VII)
+Type:		Bracer
+Rarity:		3
+Attack:		10
+Defense:	25
+Magic:		13
+Resistance:	30
+Mind:		10
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Shinra Beta (VII)
+Type:		Bracer
+Rarity:		3
+Attack:		11
+Defense:	26
+Magic:		11
+Resistance:	31
+Mind:		11
+Evasion:	99
+Effect:		None
+Soul Break:	None
+
+
+Name:		Wizard Armlet (X)
+Type:		Bracer
+Rarity:		4
+Attack:		13
+Defense:	42
+Magic:		19
+Resistance:	59
+Mind:		16
+Evasion:	102
+Effect:		None
+Soul Break:	None
+
+
+Name:		Gold Bangle (XIII)
+Type:		Bracer
+Rarity:		5
+Attack:		22
+Defense:	83
+Magic:		22
+Resistance:	89
+Mind:		22
+Evasion:	105
+Effect:		None
+Soul Break:	None
+
+
+Name:		Silver Bangle (XIII)
+Type:		Bracer
+Rarity:		4
+Attack:		15
+Defense:	43
+Magic:		15
+Resistance:	54
+Mind:		15
+Evasion:	103
+Effect:		None
+Soul Break:	None
+
+

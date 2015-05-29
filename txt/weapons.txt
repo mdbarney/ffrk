@@ -1,0 +1,1720 @@
+Name:		Knife (II)
+Type:		Dagger
+Rarity:		1
+Attack:		19
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Knife (II)
+Type:		Dagger
+Rarity:		2
+Attack:		33
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Dagger (IX)
+Type:		Dagger
+Rarity:		1
+Attack:		20
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Kunai (IV)
+Type:		Dagger
+Rarity:		1
+Attack:		21
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Kodachi (V)
+Type:		Dagger
+Rarity:		2
+Attack:		31
+Accuracy:	86
+Evasion:	2
+Effect:		None
+Soul Break:	None
+
+
+Name:		Chopper (XII)
+Type:		Dagger
+Rarity:		2
+Attack:		32
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Cat Claws (II)
+Type:		Dagger
+Rarity:		4
+Attack:		71
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Dagger (IX)
+Type:		Dagger
+Rarity:		2
+Attack:		33
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Orichalcum Dirk (V)
+Type:		Dagger
+Rarity:		3
+Attack:		46
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Dancing Dagger (V)
+Type:		Dagger
+Rarity:		3
+Attack:		44
+Magic:		3
+Accuracy:	89
+Evasion:	3
+Effect:		None
+Soul Break:	None
+
+
+Name:		Avenger (XII)
+Type:		Dagger
+Rarity:		3
+Attack:		45
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Ripper (II)
+Type:		Dagger
+Rarity:		3
+Attack:		48
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Main Gauche (VI)
+Type:		Dagger
+Rarity:		3
+Attack:		44
+Accuracy:	89
+Evasion:	4
+Effect:		None
+Soul Break:	None
+
+
+Name:		Air Knife (VI)
+Type:		Dagger
+Rarity:		3
+Attack:		45
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mage Masher (IV)
+Type:		Dagger
+Rarity:		3
+Attack:		44
+Accuracy:	89
+Effect:		Adds small chance to Silence.
+Soul Break:	None
+
+
+Name:		Platinum Dagger (XII)
+Type:		Dagger
+Rarity:		4
+Attack:		71
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Gladius (IX)
+Type:		Dagger
+Rarity:		4
+Attack:		72
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Maneater (VI)
+Type:		Dagger
+Rarity:		4
+Attack:		72
+Accuracy:	92
+Evasion:	5
+Effect:		None
+Soul Break:	None
+
+
+Name:		Swordbreaker (VI)
+Type:		Dagger
+Rarity:		4
+Attack:		71
+Accuracy:	92
+Evasion:	5
+Effect:		None
+Soul Break:	None
+
+
+Name:		Danjuro (XII)
+Type:		Dagger
+Rarity:		5
+Attack:		113
+Accuracy:	95
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mage Masher (XII)
+Type:		Dagger
+Rarity:		2
+Attack:		33
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Dagger (XII)
+Type:		Dagger
+Rarity:		1
+Attack:		20
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Dancing Dagger (IV)
+Type:		Dagger
+Rarity:		4
+Attack:		73
+Magic:		4
+Accuracy:	89
+Evasion:	2
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mesmerize Blade (VIII)
+Type:		Dagger
+Rarity:		4
+Attack:		74
+Magic:		5
+Accuracy:	89
+Evasion:	2
+Effect:		None
+Soul Break:	None
+
+
+Name:		Broadsword (V)
+Type:		Sword
+Rarity:		1
+Attack:		21
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Iron Sword (XII)
+Type:		Sword
+Rarity:		2
+Attack:		35
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Longsword (XII)
+Type:		Sword
+Rarity:		1
+Attack:		23
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Sword (IV)
+Type:		Sword
+Rarity:		2
+Attack:		36
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Coral Sword (V)
+Type:		Sword
+Rarity:		2
+Attack:		36
+Accuracy:	86
+Effect:		Adds light lightning damage.
+Soul Break:	None
+
+
+Name:		Mythril Blade (XII)
+Type:		Sword
+Rarity:		2
+Attack:		37
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Greatsword (VI)
+Type:		Sword
+Rarity:		2
+Attack:		40
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Rune Blade (V)
+Type:		Sword
+Rarity:		3
+Attack:		48
+Magic:		3
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Enhancer (V)
+Type:		Sword
+Rarity:		3
+Attack:		47
+Magic:		5
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Ancient Sword (XII)
+Type:		Sword
+Rarity:		3
+Attack:		48
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Zwill Blade (XII)
+Type:		Sword
+Rarity:		2
+Attack:		36
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Platinum Sword (XII)
+Type:		Sword
+Rarity:		3
+Attack:		51
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Flametongue (VI)
+Type:		Sword
+Rarity:		3
+Attack:		48
+Magic:		3
+Accuracy:	89
+Effect:		Adds light fire damage.
+Soul Break:	None
+
+
+Name:		Falchion (VI)
+Type:		Sword
+Rarity:		3
+Attack:		52
+Accuracy:	89
+Evasion:	3
+Effect:		None
+Soul Break:	None
+
+
+Name:		Bastard Sword (VI)
+Type:		Sword
+Rarity:		3
+Attack:		54
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Sleep Blade (IV)
+Type:		Sword
+Rarity:		3
+Attack:		46
+Accuracy:	89
+Effect:		Adds small chance to Sleep.
+Soul Break:	None
+
+
+Name:		Icebrand (IV)
+Type:		Sword
+Rarity:		3
+Attack:		48
+Magic:		3
+Accuracy:	89
+Effect:		Adds light ice damage.
+Soul Break:	None
+
+
+Name:		Defender (IV)
+Type:		Sword
+Rarity:		3
+Attack:		50
+Defense:	3
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Stoneblade (VI)
+Type:		Sword
+Rarity:		3
+Attack:		46
+Accuracy:	89
+Effect:		Adds small chance to Petrify.
+Soul Break:	None
+
+
+Name:		Crystal Sword (VI)
+Type:		Sword
+Rarity:		4
+Attack:		81
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Buster Sword (VII)
+Type:		Sword
+Rarity:		5
+Attack:		126
+Accuracy:	95
+Effect:		Changes Cloud's Soul Break.
+Soul Break:	Braver 
+
+
+Name:		Dark Sword (IV)
+Type:		Sword
+Rarity:		5
+Attack:		128
+Defense:	-2
+Accuracy:	95
+Effect:		Changes Dark Knight Cecil's Soul Break.
+Soul Break:	Darkness 
+
+
+Name:		Soul Sabre (VI)
+Type:		Sword
+Rarity:		5
+Attack:		125
+Accuracy:	95
+Effect:		None
+Soul Break:	Runic Blade 
+
+
+Name:		Diamond Sword (XII)
+Type:		Sword
+Rarity:		4
+Attack:		80
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Claymore (XII)
+Type:		Sword
+Rarity:		3
+Attack:		48
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Zantetsuken (VI)
+Type:		Sword
+Rarity:		5
+Attack:		120
+Accuracy:	95
+Effect:		Adds small chance to KO.
+Soul Break:	None
+
+
+Name:		Wing Sword (II)
+Type:		Sword
+Rarity:		4
+Attack:		81
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Enhancer (VI)
+Type:		Sword
+Rarity:		5
+Attack:		95
+Magic:		127
+Accuracy:	95
+Effect:		Changes Terra's Soul Break.
+Soul Break:	Trance Fira 
+
+
+Name:		Warrior's Sword (X)
+Type:		Sword
+Rarity:		4
+Attack:		83
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Defender (I)
+Type:		Sword
+Rarity:		4
+Attack:		84
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Blitz Sword (VIII)
+Type:		Sword
+Rarity:		5
+Attack:		124
+Magic:		6
+Accuracy:	95
+Effect:		None
+Soul Break:	None
+
+
+Name:		Galbadian Blade (VIII)
+Type:		Sword
+Rarity:		2
+Attack:		36
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Kazekiri (V)
+Type:		Katana
+Rarity:		2
+Attack:		33
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Masamune (VII)
+Type:		Katana
+Rarity:		5
+Attack:		132
+Accuracy:	95
+Effect:		Changes Sephiroth's Soul Break.
+Soul Break:	Hell's Gate 
+
+
+Name:		Masamune Blade (VII)
+Type:		Katana
+Rarity:		4
+Attack:		77
+Accuracy:	95
+Effect:		None
+Soul Break:	None
+
+
+Name:		Kiku-ichimonji (VI)
+Type:		Katana
+Rarity:		5
+Attack:		129
+Accuracy:	95
+Effect:		Changes Cyan's Soul Break.
+Soul Break:	Bushido Flurry 
+
+
+Name:		Ashura (IV)
+Type:		Katana
+Rarity:		2
+Attack:		33
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Nodachi (X)
+Type:		Katana
+Rarity:		4
+Attack:		75
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Battle Axe (V)
+Type:		Axe
+Rarity:		1
+Attack:		27
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Handaxe (XII)
+Type:		Axe
+Rarity:		1
+Attack:		23
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Broadaxe (XII)
+Type:		Axe
+Rarity:		1
+Attack:		25
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Slasher (XII)
+Type:		Axe
+Rarity:		2
+Attack:		38
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Ogrekiller (IV)
+Type:		Axe
+Rarity:		2
+Attack:		40
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Death Sickle (V)
+Type:		Axe
+Rarity:		3
+Attack:		57
+Accuracy:	89
+Effect:		Adds small chance to KO.
+Soul Break:	None
+
+
+Name:		Rune Axe (V)
+Type:		Axe
+Rarity:		4
+Attack:		87
+Magic:		3
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Poison Axe (IV)
+Type:		Axe
+Rarity:		3
+Attack:		54
+Accuracy:	89
+Effect:		Adds small chance to Poison.
+Soul Break:	None
+
+
+Name:		Giant's Axe (V)
+Type:		Axe
+Rarity:		4
+Attack:		90
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Dual Tomahawk (III)
+Type:		Axe
+Rarity:		3
+Attack:		55
+Accuracy:	89
+Effect:		None
+Soul Break:		Double Attack II 
+
+
+Name:		Hammerhead (XII)
+Type:		Axe
+Rarity:		4
+Attack:		87
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Hammer (IV)
+Type:		Hammer
+Rarity:		1
+Attack:		21
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Hammer (IV)
+Type:		Hammer
+Rarity:		2
+Attack:		36
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		War Hammer (V)
+Type:		Hammer
+Rarity:		2
+Attack:		36
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Gaia Hammer (V)
+Type:		Hammer
+Rarity:		3
+Attack:		50
+Accuracy:	89
+Effect:		Adds light earth damage.
+Soul Break:	None
+
+
+Name:		Sledgehammer (XII)
+Type:		Hammer
+Rarity:		4
+Attack:		79
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Spear (XII)
+Type:		Spear
+Rarity:		1
+Attack:		21
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Wind Spear (V)
+Type:		Spear
+Rarity:		1
+Attack:		22
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Partisan (XII)
+Type:		Spear
+Rarity:		2
+Attack:		36
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Heavy Lance (XII)
+Type:		Spear
+Rarity:		2
+Attack:		35
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Spear (VI)
+Type:		Spear
+Rarity:		2
+Attack:		36
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Javelin (V)
+Type:		Spear
+Rarity:		3
+Attack:		50
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Storm Spear (XII)
+Type:		Spear
+Rarity:		3
+Attack:		47
+Accuracy:	89
+Effect:		Adds light lightning damage.
+Soul Break:	None
+
+
+Name:		Obelisk (XII)
+Type:		Spear
+Rarity:		3
+Attack:		54
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Halberd (XII)
+Type:		Spear
+Rarity:		3
+Attack:		51
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Trident (XII)
+Type:		Spear
+Rarity:		4
+Attack:		79
+Accuracy:	92
+Effect:		Adds light ice damage.
+Soul Break:	None
+
+
+Name:		Blood Lance (IV)
+Type:		Spear
+Rarity:		5
+Attack:		128
+Accuracy:	95
+Effect:		Changes Kain's Soul Break.
+Soul Break:	Lancet 
+
+
+Name:		Golden Spear (VI)
+Type:		Spear
+Rarity:		5
+Attack:		123
+Accuracy:	95
+Effect:		None
+Soul Break:	None
+
+
+Name:		Leather Glove (VII)
+Type:		Fist
+Rarity:		1
+Attack:		19
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Cat Claws (III)
+Type:		Fist
+Rarity:		1
+Attack:		20
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Metal Knuckles (VI)
+Type:		Fist
+Rarity:		2
+Attack:		31
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Sonic Knuckles (III)
+Type:		Fist
+Rarity:		2
+Attack:		33
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Bronze Knuckles (III)
+Type:		Fist
+Rarity:		1
+Attack:		20
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Claws (VI)
+Type:		Fist
+Rarity:		2
+Attack:		32
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Diamond Knuckle (VII)
+Type:		Fist
+Rarity:		3
+Attack:		46
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Wyvern Claws (III)
+Type:		Fist
+Rarity:		3
+Attack:		49
+Accuracy:	89
+Effect:		Adds light wind damage.
+Soul Break:	None
+
+
+Name:		Tiger Claws (III)
+Type:		Fist
+Rarity:		3
+Attack:		48
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Venom Claws (VI)
+Type:		Fist
+Rarity:		3
+Attack:		45
+Accuracy:	89
+Effect:		Adds small chance to Poison.
+Soul Break:	None
+
+
+Name:		Grand Glove (VII)
+Type:		Fist
+Rarity:		5
+Attack:		115
+Accuracy:	95
+Effect:		Changes Tifa's Soul Break.
+Soul Break:	Somersault 
+
+
+Name:		Metal Knuckle (VII)
+Type:		Fist
+Rarity:		4
+Attack:		74
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Claw (VII)
+Type:		Fist
+Rarity:		2
+Attack:		34
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Giant's Gloves (II)
+Type:		Fist
+Rarity:		5
+Attack:		116
+Accuracy:	95
+Effect:		Changes Josef's Soul Break.
+Soul Break:	Noble Sacrifice 
+
+
+Name:		Kaiser Knuckles (XIII)
+Type:		Fist
+Rarity:		5
+Attack:		110
+Accuracy:	95
+Effect:		None
+Soul Break:	None
+
+
+Name:		Power Glove (XIII)
+Type:		Fist
+Rarity:		4
+Attack:		73
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Rod (VI)
+Type:		Rod
+Rarity:		2
+Attack:		11
+Magic:		35
+Mind:		18
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Rod (IV)
+Type:		Rod
+Rarity:		1
+Attack:		7
+Magic:		21
+Mind:		11
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Serpent Rod (XII)
+Type:		Rod
+Rarity:		2
+Attack:		11
+Magic:		36
+Mind:		18
+Accuracy:	86
+Effect:		Adds light ice damage.
+Soul Break:	None
+
+
+Name:		Healing Rod (XII)
+Type:		Rod
+Rarity:		2
+Attack:		12
+Magic:		39
+Mind:		20
+Accuracy:	86
+Effect:		Adds light holy damage.
+Soul Break:	None
+
+
+Name:		Flame Rod (V)
+Type:		Rod
+Rarity:		3
+Attack:		15
+Magic:		48
+Mind:		24
+Accuracy:	89
+Effect:		Adds light fire damage.
+Soul Break:	None
+
+
+Name:		Thunder Rod (V)
+Type:		Rod
+Rarity:		3
+Attack:		15
+Magic:		48
+Mind:		24
+Accuracy:	89
+Effect:		Adds light lightning damage.
+Soul Break:	None
+
+
+Name:		Gaia Rod (XII)
+Type:		Rod
+Rarity:		3
+Attack:		16
+Magic:		51
+Mind:		26
+Accuracy:	89
+Effect:		Adds light earth damage.
+Soul Break:	None
+
+
+Name:		Power Rod (XII)
+Type:		Rod
+Rarity:		3
+Attack:		16
+Magic:		51
+Mind:		26
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Poison Rod (VI)
+Type:		Rod
+Rarity:		3
+Attack:		15
+Magic:		47
+Mind:		24
+Accuracy:	89
+Effect:		Adds light poison damage.
+Soul Break:	None
+
+
+Name:		Punisher (VI)
+Type:		Rod
+Rarity:		3
+Attack:		20
+Magic:		50
+Mind:		26
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Lilith Rod (IV)
+Type:		Rod
+Rarity:		3
+Attack:		17
+Magic:		54
+Mind:		27
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Guard Stick (VII)
+Type:		Rod
+Rarity:		5
+Attack:		38
+Magic:		125
+Mind:		75
+Accuracy:	95
+Effect:		Changes Aerith's Soul Break.
+Soul Break:	Healing Wind 
+
+
+Name:		Light Rod (III)
+Type:		Rod
+Rarity:		4
+Attack:		24
+Magic:		79
+Mind:		40
+Accuracy:	92
+Effect:		Changes Black Mage's Soul Break. Adds light lightning damage.
+Soul Break:		Magic Signet 
+
+
+Name:		Empyrean Rod (XII)
+Type:		Rod
+Rarity:		4
+Attack:		24
+Magic:		80
+Mind:		40
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Ice Rod (IV)
+Type:		Rod
+Rarity:		3
+Attack:		15
+Magic:		48
+Mind:		24
+Accuracy:	89
+Effect:		Adds light ice damage.
+Soul Break:	None
+
+
+Name:		Gravity Rod (VI)
+Type:		Rod
+Rarity:		4
+Attack:		25
+Magic:		81
+Mind:		41
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mace (XII)
+Type:		Rod
+Rarity:		1
+Attack:		7
+Magic:		22
+Mind:		11
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Bronze Mace (XII)
+Type:		Rod
+Rarity:		3
+Attack:		15
+Magic:		50
+Mind:		25
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Rod (VII)
+Type:		Rod
+Rarity:		2
+Attack:		11
+Magic:		36
+Mind:		18
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Binding Rod (XIII)
+Type:		Rod
+Rarity:		5
+Attack:		59
+Magic:		128
+Mind:		71
+Accuracy:	95
+Effect:		Changes Vanille's Soul Break.
+Soul Break:	Deprotega 
+
+
+Name:		Cherry Staff (XII)
+Type:		Staff
+Rarity:		1
+Attack:		7
+Magic:		11
+Mind:		22
+Accuracy:	83
+Effect:		Adds light wind damage.
+Soul Break:	None
+
+
+Name:		Oak Staff (XII)
+Type:		Staff
+Rarity:		1
+Attack:		8
+Magic:		12
+Mind:		24
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Staff (IV)
+Type:		Staff
+Rarity:		1
+Attack:		7
+Magic:		11
+Mind:		21
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mage's Staff (II)
+Type:		Staff
+Rarity:		2
+Attack:		11
+Magic:		18
+Mind:		35
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Staff (IV)
+Type:		Staff
+Rarity:		2
+Attack:		11
+Magic:		18
+Mind:		36
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Power Staff (IV)
+Type:		Staff
+Rarity:		2
+Attack:		12
+Magic:		19
+Mind:		37
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Golem Staff (III)
+Type:		Staff
+Rarity:		3
+Attack:		18
+Magic:		25
+Mind:		49
+Accuracy:	89
+Effect:		Adds light earth damage.
+Soul Break:	None
+
+
+Name:		Diamond Mace (II)
+Type:		Staff
+Rarity:		3
+Attack:		15
+Magic:		25
+Mind:		50
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Wizard's Staff (XII)
+Type:		Staff
+Rarity:		3
+Attack:		16
+Magic:		26
+Mind:		52
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Golden Staff (XII)
+Type:		Staff
+Rarity:		3
+Attack:		17
+Magic:		27
+Mind:		54
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Storm Staff (XII)
+Type:		Staff
+Rarity:		3
+Attack:		15
+Magic:		24
+Mind:		48
+Accuracy:	89
+Effect:		Adds light lightning damage.
+Soul Break:	None
+
+
+Name:		Glacial Staff (XII)
+Type:		Staff
+Rarity:		3
+Attack:		15
+Magic:		24
+Mind:		48
+Accuracy:	89
+Effect:		Adds light ice damage.
+Soul Break:	None
+
+
+Name:		Flame Staff (XII)
+Type:		Staff
+Rarity:		3
+Attack:		15
+Magic:		24
+Mind:		48
+Accuracy:	89
+Effect:		Adds light fire damage.
+Soul Break:	None
+
+
+Name:		Healing Staff (V)
+Type:		Staff
+Rarity:		5
+Attack:		39
+Magic:		110
+Mind:		128
+Accuracy:	95
+Effect:		Adds light holy damage.
+Soul Break:	Royal Devotion 
+
+
+Name:		Aura Staff (IV)
+Type:		Staff
+Rarity:		3
+Attack:		15
+Magic:		25
+Mind:		50
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Rune Staff (IV)
+Type:		Staff
+Rarity:		3
+Attack:		16
+Magic:		30
+Mind:		53
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Light Staff (III)
+Type:		Staff
+Rarity:		4
+Attack:		24
+Magic:		40
+Mind:		79
+Accuracy:	92
+Effect:		Changes White Mage's Soul Break. Adds light lightning damage.
+Soul Break:	Divine Signet 
+
+
+Name:		Sage's Staff (IV)
+Type:		Staff
+Rarity:		4
+Attack:		24
+Magic:		40
+Mind:		80
+Accuracy:	92
+Effect:		Adds light holy damage.
+Soul Break:	None
+
+
+Name:		Judgment Staff (V)
+Type:		Staff
+Rarity:		5
+Attack:		38
+Magic:		63
+Mind:		126
+Accuracy:	95
+Effect:		None
+Soul Break:	None
+
+
+Name:		Oaken Pole (XII)
+Type:		Staff
+Rarity:		2
+Attack:		14
+Magic:		18
+Mind:		36
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Cypress Pole (XII)
+Type:		Staff
+Rarity:		3
+Attack:		19
+Magic:		27
+Mind:		53
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Mythril Mace (II)
+Type:		Staff
+Rarity:		2
+Attack:		11
+Magic:		18
+Mind:		36
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Healer's Staff (XIII)
+Type:		Staff
+Rarity:		4
+Attack:		23
+Magic:		39
+Mind:		82
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Silver Bow (V)
+Type:		Bow
+Rarity:		1
+Attack:		21
+Magic:		8
+Mind:		8
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Shortbow (XII)
+Type:		Bow
+Rarity:		1
+Attack:		17
+Magic:		7
+Mind:		7
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Longbow (XII)
+Type:		Bow
+Rarity:		1
+Attack:		18
+Magic:		7
+Mind:		7
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Flame Bow (V)
+Type:		Bow
+Rarity:		2
+Attack:		28
+Magic:		11
+Mind:		11
+Accuracy:	86
+Effect:		Adds light fire damage.
+Soul Break:	None
+
+
+Name:		Frost Bow (V)
+Type:		Bow
+Rarity:		2
+Attack:		28
+Magic:		11
+Mind:		11
+Accuracy:	86
+Effect:		Adds light ice damage.
+Soul Break:	None
+
+
+Name:		Thunder Bow (V)
+Type:		Bow
+Rarity:		2
+Attack:		28
+Magic:		11
+Mind:		11
+Accuracy:	86
+Effect:		Adds light lightning damage.
+Soul Break:	None
+
+
+Name:		Dark Bow (V)
+Type:		Bow
+Rarity:		3
+Attack:		39
+Magic:		15
+Mind:		15
+Accuracy:	89
+Effect:		Adds small chance to Blind.
+Soul Break:	None
+
+
+Name:		Elven Bow (V)
+Type:		Bow
+Rarity:		3
+Attack:		41
+Magic:		16
+Mind:		16
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Aevis Killer (XII)
+Type:		Bow
+Rarity:		3
+Attack:		43
+Magic:		16
+Mind:		16
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Killer Bow (V)
+Type:		Bow
+Rarity:		4
+Attack:		63
+Magic:		24
+Mind:		24
+Accuracy:	92
+Effect:		Changes Ranger's Soul Break. Adds small chance to KO.
+Soul Break:	Steady Shot II 
+
+
+Name:		Hayate Bow (V)
+Type:		Bow
+Rarity:		4
+Attack:		65
+Magic:		25
+Mind:		25
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Bowgun (XII)
+Type:		Bow
+Rarity:		2
+Attack:		29
+Magic:		11
+Mind:		11
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Crossbow (XII)
+Type:		Bow
+Rarity:		2
+Attack:		29
+Magic:		11
+Mind:		11
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Silver Harp (V)
+Type:		Instrument
+Rarity:		3
+Attack:		30
+Magic:		20
+Mind:		20
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Madhura Harp (III)
+Type:		Instrument
+Rarity:		4
+Attack:		49
+Magic:		33
+Mind:		33
+Accuracy:	92
+Effect:		Changes Bard's Soul Break.
+Soul Break:	Valor Minuet II 
+
+
+Name:		Whip (IV)
+Type:		Whip
+Rarity:		2
+Attack:		21
+Magic:		32
+Accuracy:	86
+Effect:		Adds small chance to Paralyze.
+Soul Break:	None
+
+
+Name:		Blitz Whip (IV)
+Type:		Whip
+Rarity:		3
+Attack:		30
+Magic:		45
+Accuracy:	89
+Effect:		Adds small chance to Paralyze.
+Soul Break:	None
+
+
+Name:		Ice Whip (IV)
+Type:		Whip
+Rarity:		5
+Attack:		75
+Magic:		129
+Accuracy:	95
+Effect:		Changes Rydia's Soul Break. Adds light ice damage.
+Soul Break:	Summon Eidolon II 
+
+
+Name:		Moonring Blade (VI)
+Type:		Thrown
+Rarity:		4
+Attack:		64
+Accuracy:	92
+Effect:		None
+Soul Break:	None
+
+
+Name:		Boomerang (VI)
+Type:		Thrown
+Rarity:		1
+Attack:		17
+Accuracy:	83
+Effect:		None
+Soul Break:	None
+
+
+Name:		Chakram (III)
+Type:		Thrown
+Rarity:		2
+Attack:		28
+Accuracy:	86
+Effect:		None
+Soul Break:	None
+
+
+Name:		Shuriken (III)
+Type:		Thrown
+Rarity:		3
+Attack:		40
+Accuracy:	89
+Effect:		None
+Soul Break:	None
+
+
+Name:		Valkyrie (VIII)
+Type:		Thrown
+Rarity:		5
+Attack:		87
+Magic:		127
+Accuracy:	95
+Effect:		Changes Rinoa's Soul Break.
+Soul Break:	Angel Wing Bolt 
+
+
+Name:		Healing Grimoire
+Type:		Book
+Rarity:		5
+Attack:		87
+Magic:		108
+Mind:		118
+Accuracy:	95
+Effect:		Changes Tyro's Soul Break.
+Soul Break:	Healing Grimoire 
+
+
+Name:		Sentinel's Grimoire
+Type:		Book
+Rarity:		5
+Attack:		111
+Defense:	5
+Magic:		121
+Mind:		108
+Accuracy:	95
+Effect:		Changes Keeper's Soul Break.
+Soul Break:	Sentinel's Grimoire 
+
+
+Name:		Official Ball (X)
+Type:		Ball
+Rarity:		5
+Attack:		110
+Accuracy:	95
+Effect:		Changes Wakka's Soul Break.
+Soul Break:	Status Reels 
+
+
