@@ -679,7 +679,6 @@ def loadData(dataFile):
 
     return infoList
 
-
 def buildList(dataType, length):
 
     infoList = []
@@ -701,5 +700,12 @@ def buildList(dataType, length):
 
     return infoList
 
+def findStat(infoList, stat):
+    
+    for item in infoList:
+        for e in item:
+            if e.find(stat) != -1:
+                print item
+                break
 
 

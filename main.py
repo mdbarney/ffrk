@@ -50,6 +50,17 @@ def main():
     # armor = ffrklib.buildList("armor", rLen)
     # accessories = ffrklib.buildList("accessory", aLen)
 
+    # test loadData by printing
+    # print ffrklib.loadData(char_data)
+    # print ffrklib.loadData(weapon_data)
+    # print ffrklib.loadData(armor_data)
+    # print ffrklib.loadData(accessory_data)
+
+    characters = ffrklib.loadData(char_data)
+    weapons = ffrklib.loadData(weapon_data)
+    armor = ffrklib.loadData(armor_data)
+    accessories = ffrklib.loadData(accessory_data)
+
 
     # ffrklib.outputTextFile(weapons, wepTxtFile)
     # ffrklib.outputTextFile(accessories, accTxtFile)
@@ -62,11 +73,14 @@ def main():
     # ffrklib.saveData(armor, armor_data)
     # ffrklib.saveData(characters, char_data)
 
-    # test loadData by printing
-    print ffrklib.loadData(char_data)
-    print ffrklib.loadData(weapon_data)
-    print ffrklib.loadData(armor_data)
-    print ffrklib.loadData(accessory_data)
+
+    ffrklib.findStat(weapons, "Dagger")
+
+    # print "Thrown:\n"
+    # ffrklib.findStat(characters, "Thrown")
+
+    # print "Spears:\n"
+    # ffrklib.findStat(characters, "Spear")
 
 
     # wepTxtFile.close()
