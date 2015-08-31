@@ -58,7 +58,41 @@ accessoryUrlPattern = "<td><a href=" + "\".*\""
 # accessoryUrlPattern = "<td><a href=" + ".*</a></td>\n<td>\n<td>Accessory</td>\n<td>.*</td>"
 characterUrlPattern = "<td><a href=" + ".*</a></td>\n<td>"
 
+
+weaponListPattern = "<td><a href=\"/game/951/wiki/Equipment_Rarity%20(.*)>(.*)</a></td>\n<td><a href=\"/game/951/wiki/Equipment%20Type:%20(.*)>(.*)</a></td>"
+
+# <td><a href="/game/951/wiki/Equipment_Rarity%201_Dagger%20(IX)">Dagger (IX)</a></td>
+# <td><a href="/game/951/wiki/Equipment%20Type:%20Dagger">Dagger</a></td>
+
 # Modules
+
+def getWeaponList():
+
+    aResp = urllib2.urlopen(str(weaponInfo))
+    web_pg = aResp.read();
+
+    m = re.findall(weaponListPattern, web_pg)
+    for item in m:
+        # item.split('\"')[1]).replace("&#39;","\'")
+        rarity = item[0].split('_')[0]
+        name = str(item[1]).replace("&#39;","\'")
+        type_ = str(item[2])
+        a = {'rarity': rarity, 'name': name, 'type':type_}
+        print a
+        
+def getArmorList():
+
+    aResp = urllib2.urlopen(str(armorInfo))
+    web_pg = aResp.read();
+
+    m = re.findall(weaponListPattern, web_pg)
+    for item in m:
+        # item.split('\"')[1]).replace("&#39;","\'")
+        rarity = item[0].split('_')[0]
+        name = str(item[1]).replace("&#39;","\'")
+        type_ = str(item[2])
+        a = {'rarity': rarity, 'name': name, 'type':type_}
+        print a
 
 def getWeaponUrlList():
     
@@ -126,13 +160,13 @@ def getWeaponInfo(urlList, index):
     itemType = re.search(itemTypePattern, web_pg)
     rarity = re.search(itemRarityPattern, web_pg)
     effect = re.search(itemEffectPattern, web_pg)
-    soulBreak = re.search(itemSoulBreakPattern, web_pg)
-    soulBreakInfo = re.search(itemSoulBreakPattern2, web_pg)
+    # soulBreak = re.search(itemSoulBreakPattern, web_pg)
+    # soulBreakInfo = re.search(itemSoulBreakPattern2, web_pg)
 
-    if soulBreakInfo is not None:
-        soulBreakInfo1 = re.split('<|>|\n',str(soulBreakInfo.group()))
-    else:
-        soulBreakInfo1 = ""
+    # if soulBreakInfo is not None:
+    #     soulBreakInfo1 = re.split('<|>|\n',str(soulBreakInfo.group()))
+    # else:
+    #     soulBreakInfo1 = ""
 
     m = re.findall(itemStatPattern, web_pg)
 
@@ -140,7 +174,7 @@ def getWeaponInfo(urlList, index):
     type1 = re.split('<|>|: ',str(itemType.group()))
     rarity1 = re.split('<|>',str(rarity.group()))
     effect1 = re.split('<|>|\n',str(effect.group()))
-    soulBreak1 = re.split('<|>|\n',str(soulBreak.group()))
+    # soulBreak1 = re.split('<|>|\n',str(soulBreak.group()))
 
     weaponInfoList.append("Name: " + str(name1[2]).replace("&#39;","\'"))
     weaponInfoList.append("Type: " + str(type1[3]))
@@ -167,10 +201,10 @@ def getWeaponInfo(urlList, index):
     weaponInfoList.append("Effect: " + str(effect1[3]).replace("&#39;","\'"))
 
     # needs fine tuning for soul break descriptions to not break it
-    if str(soulBreak1[3]) == "None":
-        weaponInfoList.append("Soul Break: " + str(soulBreak1[3]).replace("&#39;","\'"))
-    else:
-        weaponInfoList.append("Soul Break: " + str(soulBreak1[5]).replace("&#39;","\'"))
+    # if str(soulBreak1[3]) == "None":
+    #     weaponInfoList.append("Soul Break: " + str(soulBreak1[3]).replace("&#39;","\'"))
+    # else:
+    #     weaponInfoList.append("Soul Break: " + str(soulBreak1[5]).replace("&#39;","\'"))
 
     # print weaponInfoList
     return weaponInfoList
@@ -364,7 +398,7 @@ def getCharacterInfo(urlList, index):
     character.append(str(accuracy))
     character.append(str(evasion))
     character.append(str(speed))
-    character.append(str(soulBreak[2]).replace("&#39;","\'") + " - " + str(soulBreakDesc).replace("&#39;","\'"))
+    # character.append(str(soulBreak[2]).replace("&#39;","\'") + " - " + str(soulBreakDesc).replace("&#39;","\'"))
 
 
     nlen = len(useTypes)
