@@ -1,0 +1,371 @@
+{'type': 'Dagger"', 'name': 'Knife (II)', 'rarity': '1'}
+{'type': 'Dagger"', 'name': 'Mythril Knife (II)', 'rarity': '2'}
+{'type': 'Dagger"', 'name': 'Dagger (IX)', 'rarity': '1'}
+{'type': 'Dagger"', 'name': 'Kunai (IV)', 'rarity': '1'}
+{'type': 'Dagger"', 'name': 'Kodachi (V)', 'rarity': '2'}
+{'type': 'Dagger"', 'name': 'Chopper (XII)', 'rarity': '2'}
+{'type': 'Dagger"', 'name': 'Cat Claws (II)', 'rarity': '4'}
+{'type': 'Dagger"', 'name': 'Mythril Dagger (IX)', 'rarity': '2'}
+{'type': 'Dagger"', 'name': 'Orichalcum Dirk (V)', 'rarity': '3'}
+{'type': 'Dagger"', 'name': 'Dancing Dagger (V)', 'rarity': '3'}
+{'type': 'Dagger"', 'name': 'Avenger (XII)', 'rarity': '3'}
+{'type': 'Dagger"', 'name': 'Ripper (II)', 'rarity': '3'}
+{'type': 'Dagger"', 'name': 'Main Gauche (VI)', 'rarity': '3'}
+{'type': 'Dagger"', 'name': 'Air Knife (VI)', 'rarity': '3'}
+{'type': 'Dagger"', 'name': 'Mage Masher (IV)', 'rarity': '3'}
+{'type': 'Dagger"', 'name': 'Platinum Dagger (XII)', 'rarity': '4'}
+{'type': 'Dagger"', 'name': 'Gladius (IX)', 'rarity': '4'}
+{'type': 'Dagger"', 'name': 'Maneater (VI)', 'rarity': '4'}
+{'type': 'Dagger"', 'name': 'Swordbreaker (VI)', 'rarity': '4'}
+{'type': 'Dagger"', 'name': 'Danjuro (XII)', 'rarity': '5'}
+{'type': 'Dagger"', 'name': 'Mage Masher (XII)', 'rarity': '2'}
+{'type': 'Dagger"', 'name': 'Dagger (XII)', 'rarity': '1'}
+{'type': 'Dagger"', 'name': 'Dancing Dagger (IV)', 'rarity': '4'}
+{'type': 'Dagger"', 'name': 'Mesmerize Blade (VIII)', 'rarity': '4'}
+{'type': 'Dagger"', 'name': 'Behemoth Knife', 'rarity': '5'}
+{'type': 'Dagger"', 'name': 'Gladius (XII)', 'rarity': '5'}
+{'type': 'Dagger"', 'name': 'Keepsake Knife (XIII)', 'rarity': '5'}
+{'type': 'Dagger"', 'name': 'Shark (VII)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Broadsword (V)', 'rarity': '1'}
+{'type': 'Sword"', 'name': 'Iron Sword (XII)', 'rarity': '2'}
+{'type': 'Sword"', 'name': 'Longsword (XII)', 'rarity': '1'}
+{'type': 'Sword"', 'name': 'Mythril Sword (IV)', 'rarity': '2'}
+{'type': 'Sword"', 'name': 'Coral Sword (V)', 'rarity': '2'}
+{'type': 'Sword"', 'name': 'Mythril Blade (XII)', 'rarity': '2'}
+{'type': 'Sword"', 'name': 'Greatsword (VI)', 'rarity': '2'}
+{'type': 'Sword"', 'name': 'Rune Blade (V)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Enhancer (V)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Ancient Sword (XII)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Zwill Blade (XII)', 'rarity': '2'}
+{'type': 'Sword"', 'name': 'Platinum Sword (XII)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Flametongue (VI)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Falchion (VI)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Bastard Sword (VI)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Sleep Blade (IV)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Icebrand (IV)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Defender (IV)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Stoneblade (VI)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Crystal Sword (VI)', 'rarity': '4'}
+{'type': 'Sword"', 'name': 'Buster Sword (VII)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Hardedge (VII)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Brotherhood (X)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Dark Sword (IV)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Mythgraven Blade (IV)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Soul Sabre (VI)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Diamond Sword (XII)', 'rarity': '4'}
+{'type': 'Sword"', 'name': 'Claymore (XII)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Thunder Blade (VI)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Zantetsuken (VI)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Tyrfing (III)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Wing Sword (II)', 'rarity': '4'}
+{'type': 'Sword"', 'name': 'Enhancer (VI)', 'rarity': '5'}
+{'type': 'Sword"', 'name': "Warrior's Sword (X)", 'rarity': '4'}
+{'type': 'Sword"', 'name': 'Defender (I)', 'rarity': '4'}
+{'type': 'Sword"', 'name': 'Blitz Sword (VIII)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Galbadian Blade (VIII)', 'rarity': '2'}
+{'type': 'Sword"', 'name': 'Fencing Sabre (X)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Mythril Saber (VII)', 'rarity': '3'}
+{'type': 'Sword"', 'name': 'Revolver (VIII)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Flame Sword (IV)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Ice Brand (IX)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Gaia Blade (II)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Sun Blade (I)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Betrayal Sword (VIII)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Blazefire Saber (XIII)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Defender (IX)', 'rarity': '5'}
+{'type': 'Sword"', 'name': "Soldier's Sabre (X)", 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Butterfly Edge (VII)', 'rarity': '5'}
+{'type': 'Sword"', 'name': 'Crystal Sword (VII)', 'rarity': '5'}
+{'type': 'Katana"', 'name': 'Kazekiri (V)', 'rarity': '2'}
+{'type': 'Katana"', 'name': 'Murasame (VII)', 'rarity': '5'}
+{'type': 'Katana"', 'name': 'Masamune (VII)', 'rarity': '5'}
+{'type': 'Katana"', 'name': 'Masamune Blade (VII)', 'rarity': '4'}
+{'type': 'Katana"', 'name': 'Kiku-ichimonji (VI)', 'rarity': '5'}
+{'type': 'Katana"', 'name': 'Ashura (IV)', 'rarity': '2'}
+{'type': 'Katana"', 'name': 'Nodachi (X)', 'rarity': '4'}
+{'type': 'Katana"', 'name': 'One-Winged Angel (VII)', 'rarity': '5'}
+{'type': 'Axe"', 'name': 'Battle Axe (V)', 'rarity': '1'}
+{'type': 'Axe"', 'name': 'Handaxe (XII)', 'rarity': '1'}
+{'type': 'Axe"', 'name': 'Broadaxe (XII)', 'rarity': '1'}
+{'type': 'Axe"', 'name': 'Slasher (XII)', 'rarity': '2'}
+{'type': 'Axe"', 'name': 'Ogrekiller (IV)', 'rarity': '2'}
+{'type': 'Axe"', 'name': 'Death Sickle (V)', 'rarity': '3'}
+{'type': 'Axe"', 'name': 'Rune Axe (V)', 'rarity': '4'}
+{'type': 'Axe"', 'name': 'Poison Axe (IV)', 'rarity': '3'}
+{'type': 'Axe"', 'name': "Giant's Axe (V)", 'rarity': '4'}
+{'type': 'Axe"', 'name': 'Dual Tomahawk (III)', 'rarity': '3'}
+{'type': 'Axe"', 'name': 'Hammerhead (XII)', 'rarity': '4'}
+{'type': 'Hammer"', 'name': 'Hammer (IV)', 'rarity': '1'}
+{'type': 'Hammer"', 'name': 'Mythril Hammer (IV)', 'rarity': '2'}
+{'type': 'Hammer"', 'name': 'War Hammer (V)', 'rarity': '2'}
+{'type': 'Hammer"', 'name': 'Gaia Hammer (V)', 'rarity': '3'}
+{'type': 'Hammer"', 'name': 'Sledgehammer (XII)', 'rarity': '4'}
+{'type': 'Spear"', 'name': 'Spear (XII)', 'rarity': '1'}
+{'type': 'Spear"', 'name': 'Wind Spear (V)', 'rarity': '1'}
+{'type': 'Spear"', 'name': 'Partisan (XII)', 'rarity': '2'}
+{'type': 'Spear"', 'name': 'Heavy Lance (XII)', 'rarity': '2'}
+{'type': 'Spear"', 'name': 'Mythril Spear (VI)', 'rarity': '2'}
+{'type': 'Spear"', 'name': 'Javelin (V)', 'rarity': '3'}
+{'type': 'Spear"', 'name': 'Storm Spear (XII)', 'rarity': '3'}
+{'type': 'Spear"', 'name': 'Obelisk (XII)', 'rarity': '3'}
+{'type': 'Spear"', 'name': 'Halberd (XII)', 'rarity': '3'}
+{'type': 'Spear"', 'name': 'Trident (XII)', 'rarity': '4'}
+{'type': 'Spear"', 'name': 'Blood Lance (IV)', 'rarity': '5'}
+{'type': 'Spear"', 'name': 'Golden Spear (VI)', 'rarity': '5'}
+{'type': 'Spear"', 'name': 'Heat Lance (X)', 'rarity': '5'}
+{'type': 'Spear"', 'name': 'Wind Spear (IV)', 'rarity': '5'}
+{'type': 'Spear"', 'name': 'Partisan (VI)', 'rarity': '5'}
+{'type': 'Fist"', 'name': 'Leather Glove (VII)', 'rarity': '1'}
+{'type': 'Fist"', 'name': 'Cat Claws (III)', 'rarity': '1'}
+{'type': 'Fist"', 'name': 'Metal Knuckles (VI)', 'rarity': '2'}
+{'type': 'Fist"', 'name': 'Sonic Knuckles (III)', 'rarity': '2'}
+{'type': 'Fist"', 'name': 'Bronze Knuckles (III)', 'rarity': '1'}
+{'type': 'Fist"', 'name': 'Mythril Claws (VI)', 'rarity': '2'}
+{'type': 'Fist"', 'name': 'Diamond Knuckle (VII)', 'rarity': '3'}
+{'type': 'Fist"', 'name': 'Wyvern Claws (III)', 'rarity': '3'}
+{'type': 'Fist"', 'name': 'Tiger Claws (III)', 'rarity': '3'}
+{'type': 'Fist"', 'name': 'Venom Claws (VI)', 'rarity': '3'}
+{'type': 'Fist"', 'name': 'Grand Glove (VII)', 'rarity': '5'}
+{'type': 'Fist"', 'name': 'Crystal Glove (VII)', 'rarity': '5'}
+{'type': 'Fist"', 'name': 'Metal Knuckle (VII)', 'rarity': '4'}
+{'type': 'Fist"', 'name': 'Mythril Claw (VII)', 'rarity': '2'}
+{'type': 'Fist"', 'name': "Giant's Gloves (II)", 'rarity': '5'}
+{'type': 'Fist"', 'name': 'Kaiser Knuckles (XIII)', 'rarity': '5'}
+{'type': 'Fist"', 'name': 'Power Glove (XIII)', 'rarity': '4'}
+{'type': 'Fist"', 'name': 'Kaiser Knuckles (VI)', 'rarity': '5'}
+{'type': 'Rod"', 'name': 'Mythril Rod (VI)', 'rarity': '2'}
+{'type': 'Rod"', 'name': 'Rod (IV)', 'rarity': '1'}
+{'type': 'Rod"', 'name': 'Serpent Rod (XII)', 'rarity': '2'}
+{'type': 'Rod"', 'name': 'Healing Rod (XII)', 'rarity': '2'}
+{'type': 'Rod"', 'name': 'Flame Rod (V)', 'rarity': '3'}
+{'type': 'Rod"', 'name': 'Thunder Rod (V)', 'rarity': '3'}
+{'type': 'Rod"', 'name': 'Gaia Rod (XII)', 'rarity': '3'}
+{'type': 'Rod"', 'name': 'Power Rod (XII)', 'rarity': '3'}
+{'type': 'Rod"', 'name': 'Poison Rod (VI)', 'rarity': '3'}
+{'type': 'Rod"', 'name': 'Punisher (VI)', 'rarity': '3'}
+{'type': 'Rod"', 'name': 'Lilith Rod (IV)', 'rarity': '3'}
+{'type': 'Rod"', 'name': 'Guard Stick (VII)', 'rarity': '5'}
+{'type': 'Rod"', 'name': 'Light Rod (III)', 'rarity': '4'}
+{'type': 'Rod"', 'name': 'Empyrean Rod (XII)', 'rarity': '4'}
+{'type': 'Rod"', 'name': 'Full Metal Staff (VII)', 'rarity': '5'}
+{'type': 'Rod"', 'name': 'Magistral Rod (X)', 'rarity': '5'}
+{'type': 'Rod"', 'name': 'Ice Rod (IV)', 'rarity': '3'}
+{'type': 'Rod"', 'name': 'Gravity Rod (VI)', 'rarity': '4'}
+{'type': 'Rod"', 'name': 'Mace (XII)', 'rarity': '1'}
+{'type': 'Rod"', 'name': 'Bronze Mace (XII)', 'rarity': '3'}
+{'type': 'Rod"', 'name': 'Mythril Rod (VII)', 'rarity': '2'}
+{'type': 'Rod"', 'name': 'Binding Rod (XIII)', 'rarity': '5'}
+{'type': 'Rod"', 'name': 'Oak Staff (IX)', 'rarity': '5'}
+{'type': 'Rod"', 'name': "Hunter's Rod (XIII)", 'rarity': '5'}
+{'type': 'Rod"', 'name': 'Stardust Rod (IX)', 'rarity': '3'}
+{'type': 'Rod"', 'name': 'Healing Rod (IX)', 'rarity': '5'}
+{'type': 'Rod"', 'name': 'Flail (VIII)', 'rarity': '3'}
+{'type': 'Rod"', 'name': 'Morning Star (VIII)', 'rarity': '5'}
+{'type': 'Staff"', 'name': 'Cherry Staff (XII)', 'rarity': '1'}
+{'type': 'Staff"', 'name': 'Oak Staff (XII)', 'rarity': '1'}
+{'type': 'Staff"', 'name': 'Staff (IV)', 'rarity': '1'}
+{'type': 'Staff"', 'name': "Mage's Staff (II)", 'rarity': '2'}
+{'type': 'Staff"', 'name': 'Mythril Staff (IV)', 'rarity': '2'}
+{'type': 'Staff"', 'name': 'Power Staff (IV)', 'rarity': '2'}
+{'type': 'Staff"', 'name': 'Golem Staff (III)', 'rarity': '3'}
+{'type': 'Staff"', 'name': 'Diamond Mace (II)', 'rarity': '3'}
+{'type': 'Staff"', 'name': "Wizard's Staff (XII)", 'rarity': '3'}
+{'type': 'Staff"', 'name': 'Golden Staff (XII)', 'rarity': '3'}
+{'type': 'Staff"', 'name': 'Storm Staff (XII)', 'rarity': '3'}
+{'type': 'Staff"', 'name': 'Glacial Staff (XII)', 'rarity': '3'}
+{'type': 'Staff"', 'name': 'Flame Staff (XII)', 'rarity': '3'}
+{'type': 'Staff"', 'name': 'Healing Staff (V)', 'rarity': '5'}
+{'type': 'Staff"', 'name': 'Aura Staff (IV)', 'rarity': '3'}
+{'type': 'Staff"', 'name': 'Rune Staff (IV)', 'rarity': '3'}
+{'type': 'Staff"', 'name': 'Light Staff (III)', 'rarity': '4'}
+{'type': 'Staff"', 'name': "Sage's Staff (IV)", 'rarity': '4'}
+{'type': 'Staff"', 'name': 'Judgment Staff (V)', 'rarity': '5'}
+{'type': 'Staff"', 'name': 'Oaken Pole (XII)', 'rarity': '2'}
+{'type': 'Staff"', 'name': 'Cypress Pole (XII)', 'rarity': '3'}
+{'type': 'Staff"', 'name': 'Mythril Mace (II)', 'rarity': '2'}
+{'type': 'Staff"', 'name': "Healer's Staff (XIII)", 'rarity': '4'}
+{'type': 'Staff"', 'name': 'Storm Staff (IX)', 'rarity': '5'}
+{'type': 'Staff"', 'name': 'Mage Staff (IX)', 'rarity': '3'}
+{'type': 'Bow"', 'name': 'Silver Bow (V)', 'rarity': '1'}
+{'type': 'Bow"', 'name': 'Shortbow (XII)', 'rarity': '1'}
+{'type': 'Bow"', 'name': 'Longbow (XII)', 'rarity': '1'}
+{'type': 'Bow"', 'name': 'Flame Bow (V)', 'rarity': '2'}
+{'type': 'Bow"', 'name': 'Frost Bow (V)', 'rarity': '2'}
+{'type': 'Bow"', 'name': 'Thunder Bow (V)', 'rarity': '2'}
+{'type': 'Bow"', 'name': 'Dark Bow (V)', 'rarity': '3'}
+{'type': 'Bow"', 'name': 'Elven Bow (V)', 'rarity': '3'}
+{'type': 'Bow"', 'name': 'Aevis Killer (XII)', 'rarity': '3'}
+{'type': 'Bow"', 'name': 'Killer Bow (V)', 'rarity': '4'}
+{'type': 'Bow"', 'name': 'Hayate Bow (V)', 'rarity': '4'}
+{'type': 'Bow"', 'name': 'Bowgun (XII)', 'rarity': '2'}
+{'type': 'Bow"', 'name': 'Crossbow (XII)', 'rarity': '2'}
+{'type': 'Bow"', 'name': 'Loxley Bow (XII)', 'rarity': '5'}
+{'type': 'Instrument"', 'name': 'Silver Harp (V)', 'rarity': '3'}
+{'type': 'Instrument"', 'name': 'Madhura Harp (III)', 'rarity': '4'}
+{'type': 'Whip"', 'name': 'Whip (IV)', 'rarity': '2'}
+{'type': 'Whip"', 'name': 'Blitz Whip (IV)', 'rarity': '3'}
+{'type': 'Whip"', 'name': 'Ice Whip (IV)', 'rarity': '5'}
+{'type': 'Whip"', 'name': "Sleipnir's Tail (VIII)", 'rarity': '5'}
+{'type': 'Thrown"', 'name': 'Moonring Blade (VI)', 'rarity': '4'}
+{'type': 'Thrown"', 'name': 'Boomerang (VI)', 'rarity': '1'}
+{'type': 'Thrown"', 'name': 'Chakram (III)', 'rarity': '2'}
+{'type': 'Thrown"', 'name': 'Shuriken (III)', 'rarity': '3'}
+{'type': 'Thrown"', 'name': 'Hawkeye (VI)', 'rarity': '5'}
+{'type': 'Thrown"', 'name': 'Valkyrie (VIII)', 'rarity': '5'}
+{'type': 'Thrown"', 'name': 'Rising Sun (VI)', 'rarity': '5'}
+{'type': 'Thrown"', 'name': "Fujin's Chakram (VIII)", 'rarity': '5'}
+{'type': 'Thrown"', 'name': 'Rising Sun (VIII)', 'rarity': '5'}
+{'type': 'Book"', 'name': 'Healing Grimoire', 'rarity': '5'}
+{'type': 'Book"', 'name': "Sentinel's Grimoire", 'rarity': '5'}
+{'type': 'Gun"', 'name': 'Quicksilver (VII)', 'rarity': '3'}
+{'type': 'Gun"', 'name': 'Valiant (VIII)', 'rarity': '5'}
+{'type': 'Gun"', 'name': 'Altair (XII)', 'rarity': '2'}
+{'type': 'Gun"', 'name': 'Ras Algethi (XII)', 'rarity': '5'}
+{'type': 'Gun"', 'name': 'Vega 42s (XIII)', 'rarity': '5'}
+{'type': 'Gun"', 'name': 'PSICOM Rifle (XIII)', 'rarity': '3'}
+{'type': 'Ball"', 'name': 'Official Ball (X)', 'rarity': '5'}
+{'type': 'Hairpin"', 'name': 'Diamond Pin (VII)', 'rarity': '5'}
+{'type': 'Hairpin"', 'name': 'Mythril Clip (VII)', 'rarity': '3'}
+{'type': 'Hairpin"', 'name': 'Silver Barrette (VII)', 'rarity': '5'}
+{'type': 'Shield"', 'name': 'Leather Shield (V)', 'rarity': '1'}
+{'type': 'Shield"', 'name': 'Bronze Shield (V)', 'rarity': '1'}
+{'type': 'Shield"', 'name': 'Round Shield (XII)', 'rarity': '1'}
+{'type': 'Shield"', 'name': 'Buckler (XII)', 'rarity': '1'}
+{'type': 'Shield"', 'name': 'Iron Shield (IV)', 'rarity': '2'}
+{'type': 'Shield"', 'name': 'Mythril Shield (IV)', 'rarity': '2'}
+{'type': 'Shield"', 'name': 'Golden Shield (V)', 'rarity': '3'}
+{'type': 'Shield"', 'name': 'Diamond Shield (V)', 'rarity': '3'}
+{'type': 'Shield"', 'name': 'Shell Shield (XII)', 'rarity': '3'}
+{'type': 'Shield"', 'name': 'Flame Shield (IV)', 'rarity': '3'}
+{'type': 'Shield"', 'name': 'Ice Shield (IV)', 'rarity': '3'}
+{'type': 'Shield"', 'name': 'Aegis Shield (IV)', 'rarity': '3'}
+{'type': 'Shield"', 'name': 'Crystal Shield (VI)', 'rarity': '4'}
+{'type': 'Shield"', 'name': 'Genji Shield (IV)', 'rarity': '5'}
+{'type': 'Shield"', 'name': 'Lustrous Shield (IV)', 'rarity': '5'}
+{'type': 'Shield"', 'name': 'Heavy Shield (VI)', 'rarity': '2'}
+{'type': 'Shield"', 'name': 'Golden Shield (II)', 'rarity': '4'}
+{'type': 'Shield"', 'name': 'Emerald Shield (X)', 'rarity': '5'}
+{'type': 'Shield"', 'name': 'Golden Shield (VI)', 'rarity': '5'}
+{'type': 'Shield"', 'name': 'Kaiser Shield (XII)', 'rarity': '5'}
+{'type': 'Hat"', 'name': 'Plumed Hat (V)', 'rarity': '1'}
+{'type': 'Hat"', 'name': 'Twist Headband (V)', 'rarity': '1'}
+{'type': 'Hat"', 'name': 'Leather Cap (VI)', 'rarity': '1'}
+{'type': 'Hat"', 'name': 'Hairband (VI)', 'rarity': '1'}
+{'type': 'Hat"', 'name': 'Gold Hairpin (V)', 'rarity': '3'}
+{'type': 'Hat"', 'name': "Lamia's Tiara (V)", 'rarity': '3'}
+{'type': 'Hat"', 'name': 'Circlet (V)', 'rarity': '3'}
+{'type': 'Hat"', 'name': 'Red Cap (VI)', 'rarity': '3'}
+{'type': 'Hat"', 'name': 'Hypno Crown (V)', 'rarity': '4'}
+{'type': 'Hat"', 'name': 'Royal Crown (VI)', 'rarity': '4'}
+{'type': 'Hat"', 'name': 'Mystery Veil (VI)', 'rarity': '5'}
+{'type': 'Hat"', 'name': "Wizard's Hat (IV)", 'rarity': '1'}
+{'type': 'Hat"', 'name': 'Green Beret (IV)', 'rarity': '2'}
+{'type': 'Hat"', 'name': 'Black Cowl (IV)', 'rarity': '3'}
+{'type': 'Hat"', 'name': "Sage's Miter (IV)", 'rarity': '2'}
+{'type': 'Hat"', 'name': 'Beret (VI)', 'rarity': '2'}
+{'type': 'Hat"', 'name': 'Feathered Hat (III)', 'rarity': '4'}
+{'type': 'Hat"', 'name': 'Ten-gallon Hat (VIII)', 'rarity': '4'}
+{'type': 'Hat"', 'name': 'Crusader Mask (X)', 'rarity': '2'}
+{'type': 'Hat"', 'name': 'Galbadian Helmet (VIII)', 'rarity': '2'}
+{'type': 'Hat"', 'name': 'Hypnocrown (IX)', 'rarity': '5'}
+{'type': 'Hat"', 'name': 'Keepsake Ribbon (VII)', 'rarity': '5'}
+{'type': 'Hat"', 'name': 'Defense Veil (X)', 'rarity': '5'}
+{'type': 'Helm"', 'name': 'Bronze Helm (V)', 'rarity': '1'}
+{'type': 'Helm"', 'name': 'Bronze Helm (II)', 'rarity': '1'}
+{'type': 'Helm"', 'name': 'Iron Helm (IV)', 'rarity': '2'}
+{'type': 'Helm"', 'name': 'Shell Helm (III)', 'rarity': '2'}
+{'type': 'Helm"', 'name': 'Flame Helm (II)', 'rarity': '2'}
+{'type': 'Helm"', 'name': "Giant's Helm (II)", 'rarity': '2'}
+{'type': 'Helm"', 'name': 'Mythril Helm (IV)', 'rarity': '2'}
+{'type': 'Helm"', 'name': 'Dragon Helm (III)', 'rarity': '3'}
+{'type': 'Helm"', 'name': 'Viking Helm (III)', 'rarity': '3'}
+{'type': 'Helm"', 'name': 'Ice Helm (III)', 'rarity': '3'}
+{'type': 'Helm"', 'name': 'Golden Helm (VI)', 'rarity': '3'}
+{'type': 'Helm"', 'name': 'Diamond Helm (VI)', 'rarity': '3'}
+{'type': 'Helm"', 'name': 'Genji Helm (V)', 'rarity': '5'}
+{'type': 'Helm"', 'name': 'Thornlet (V)', 'rarity': '4'}
+{'type': 'Helm"', 'name': 'Crystal Helm (VI)', 'rarity': '4'}
+{'type': 'Helm"', 'name': 'Dark Helm (IV)', 'rarity': '5'}
+{'type': 'Helm"', 'name': 'Diamond Helm (III)', 'rarity': '4'}
+{'type': 'Light%20Armor"', 'name': 'Copper Cuirass (V)', 'rarity': '1'}
+{'type': 'Light%20Armor"', 'name': 'Vest (III)', 'rarity': '1'}
+{'type': 'Light%20Armor"', 'name': 'Leather Clothing (IV)', 'rarity': '1'}
+{'type': 'Light%20Armor"', 'name': 'Protect Vest (VII)', 'rarity': '2'}
+{'type': 'Light%20Armor"', 'name': 'Ninja Gear (VI)', 'rarity': '2'}
+{'type': 'Light%20Armor"', 'name': 'Kenpo Gi (IV)', 'rarity': '2'}
+{'type': 'Light%20Armor"', 'name': 'Power Sash (IV)', 'rarity': '2'}
+{'type': 'Light%20Armor"', 'name': 'Mirage Vest (V)', 'rarity': '3'}
+{'type': 'Light%20Armor"', 'name': 'Black Belt Gi (III)', 'rarity': '3'}
+{'type': 'Light%20Armor"', 'name': 'Diamond Vest (VI)', 'rarity': '3'}
+{'type': 'Light%20Armor"', 'name': 'Black Garb (IV)', 'rarity': '4'}
+{'type': 'Light%20Armor"', 'name': 'Red Jacket (VI)', 'rarity': '4'}
+{'type': 'Light%20Armor"', 'name': 'Prison Garb (IV)', 'rarity': '1'}
+{'type': 'Light%20Armor"', 'name': 'Wild Bear (XIII)', 'rarity': '5'}
+{'type': 'Light%20Armor"', 'name': 'Bright Armguard (X)', 'rarity': '4'}
+{'type': 'Light%20Armor"', 'name': 'Balamb Garden Uniform (VIII)', 'rarity': '5'}
+{'type': 'Light%20Armor"', 'name': 'Crusader Cuirass (X)', 'rarity': '2'}
+{'type': 'Light%20Armor"', 'name': 'Brigandine (IX)', 'rarity': '3'}
+{'type': 'Light%20Armor"', 'name': "Raijin's Vest (VIII)", 'rarity': '5'}
+{'type': 'Light%20Armor"', 'name': 'Viking Coat (XII)', 'rarity': '5'}
+{'type': 'Armor"', 'name': 'Bronze Armor (V)', 'rarity': '1'}
+{'type': 'Armor"', 'name': 'Leather Armor (III)', 'rarity': '1'}
+{'type': 'Armor"', 'name': 'Leather Armor (VI)', 'rarity': '1'}
+{'type': 'Armor"', 'name': 'Iron Armor (IV)', 'rarity': '2'}
+{'type': 'Armor"', 'name': 'Bone Mail (V)', 'rarity': '2'}
+{'type': 'Armor"', 'name': 'Mythril Armor (IV)', 'rarity': '2'}
+{'type': 'Armor"', 'name': 'Knight Armor (III)', 'rarity': '3'}
+{'type': 'Armor"', 'name': 'Demon Mail (III)', 'rarity': '3'}
+{'type': 'Armor"', 'name': 'Golden Armor (VI)', 'rarity': '3'}
+{'type': 'Armor"', 'name': 'Flame Mail (IV)', 'rarity': '3'}
+{'type': 'Armor"', 'name': 'Ice Armor (IV)', 'rarity': '3'}
+{'type': 'Armor"', 'name': 'Crystal Armor (V)', 'rarity': '4'}
+{'type': 'Armor"', 'name': 'Genji Armor (V)', 'rarity': '5'}
+{'type': 'Armor"', 'name': 'Diamond Armor (VI)', 'rarity': '4'}
+{'type': 'Armor"', 'name': 'Mythril Vest (VI)', 'rarity': '3'}
+{'type': 'Armor"', 'name': 'Mythril Mail (VI)', 'rarity': '3'}
+{'type': 'Armor"', 'name': 'Dark Armor (IV)', 'rarity': '5'}
+{'type': 'Armor"', 'name': "Knight's Armor (I)", 'rarity': '4'}
+{'type': 'Armor"', 'name': 'Galbadian Armor (VIII)', 'rarity': '2'}
+{'type': 'Armor"', 'name': 'Diamond Armor (IV)', 'rarity': '5'}
+{'type': 'Armor"', 'name': 'Minotaur Plate (VIII)', 'rarity': '5'}
+{'type': 'Armor"', 'name': 'Golden Armor (XII)', 'rarity': '5'}
+{'type': 'Robe"', 'name': 'Mage Robe (III)', 'rarity': '1'}
+{'type': 'Robe"', 'name': 'Cotton Robe (VI)', 'rarity': '1'}
+{'type': 'Robe"', 'name': 'Silk Robe (VI)', 'rarity': '1'}
+{'type': 'Robe"', 'name': 'Scholar Robe (III)', 'rarity': '2'}
+{'type': 'Robe"', 'name': "Bard's Tunic (IV)", 'rarity': '2'}
+{'type': 'Robe"', 'name': 'Gaia Gear (IV)', 'rarity': '2'}
+{'type': 'Robe"', 'name': 'Luminous Robe (V)', 'rarity': '3'}
+{'type': 'Robe"', 'name': 'White Dress (VI)', 'rarity': '3'}
+{'type': 'Robe"', 'name': 'Magus Robe (VI)', 'rarity': '3'}
+{'type': 'Robe"', 'name': "Sage's Surplice (IV)", 'rarity': '3'}
+{'type': 'Robe"', 'name': 'Black Robe (IV)', 'rarity': '4'}
+{'type': 'Robe"', 'name': 'White Robe (IV)', 'rarity': '4'}
+{'type': 'Robe"', 'name': 'Regal Gown (VI)', 'rarity': '5'}
+{'type': 'Robe"', 'name': 'Gaia Vest (III)', 'rarity': '4'}
+{'type': 'Robe"', 'name': "Shepherd's Bolero (XII)", 'rarity': '3'}
+{'type': 'Robe"', 'name': 'Magician Robe (IX)', 'rarity': '3'}
+{'type': 'Robe"', 'name': 'Silk Robe (IX)', 'rarity': '3'}
+{'type': 'Robe"', 'name': 'Monk Robe (X)', 'rarity': '5'}
+{'type': 'Robe"', 'name': 'Black Robe (IX)', 'rarity': '5'}
+{'type': 'Robe"', 'name': 'White Robe (IX)', 'rarity': '5'}
+{'type': 'Bracer"', 'name': 'Bronze Bangle (VII)', 'rarity': '1'}
+{'type': 'Bracer"', 'name': 'Iron Bangle (VII)', 'rarity': '1'}
+{'type': 'Bracer"', 'name': 'Mythril Armlet (VII)', 'rarity': '2'}
+{'type': 'Bracer"', 'name': 'Carbon Bangle (VII)', 'rarity': '2'}
+{'type': 'Bracer"', 'name': 'Silver Armlet (VII)', 'rarity': '3'}
+{'type': 'Bracer"', 'name': 'Diamond Bangle (VII)', 'rarity': '3'}
+{'type': 'Bracer"', 'name': 'Crystal Bangle (VII)', 'rarity': '4'}
+{'type': 'Bracer"', 'name': 'Rune Armlet (VII)', 'rarity': '3'}
+{'type': 'Bracer"', 'name': 'Shinra Beta (VII)', 'rarity': '3'}
+{'type': 'Bracer"', 'name': 'Edincoat (VII)', 'rarity': '5'}
+{'type': 'Bracer"', 'name': 'Wizard Armlet (X)', 'rarity': '4'}
+{'type': 'Bracer"', 'name': 'Gold Bangle (XIII)', 'rarity': '5'}
+{'type': 'Bracer"', 'name': 'Silver Bangle (XIII)', 'rarity': '4'}
+{'type': 'Bracer"', 'name': 'Wizard Bracelet (VII)', 'rarity': '5'}
+{'type': 'Bracer"', 'name': 'Gold Armlet (VII)', 'rarity': '5'}
+{'type': 'Bracer"', 'name': 'Emerald Bracer (X)', 'rarity': '5'}
+{'type': 'Bracer"', 'name': 'Galbadian Bracers (VIII)', 'rarity': '2'}
+{'type': 'Bracer"', 'name': 'Titanium Bangle (XIII)', 'rarity': '3'}
+{'type': 'Bracer"', 'name': 'Adamant Bangle (VII)', 'rarity': '5'}
+{'type': 'Bracer"', 'name': 'Sanctum Gloves (XIII)', 'rarity': '5'}
